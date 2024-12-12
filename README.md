@@ -1,5 +1,10 @@
-# chat
-QBCore chat design
-
-# Preview:
-![image](https://user-images.githubusercontent.com/89866234/210882771-65621ee4-a022-48eb-a5cd-434a5633f81f.png)
+###### 🗨️ Chat-ის შესაცვლელად მიყევით ინსტრუქციას 🗣️
+- - - 
+- 🎪 შედით იმ server ფაილში, რომელსაც გაუკეთეთ unzip სერვერის ინსტალაციისას. 🚪
+- - - 
+- 🥅 გახსენით citizen 📂
+- - - 
+- 🛒 გახსენით system_resources 👀
+- - - 
+- 📲 ჩაანაცვლეთ chat ფაილი ახლით 🎯
+- - - 
